@@ -9,12 +9,12 @@ This repository provides the **benchmark results** of existing methods.
 
 
 ### (1) 3D Shape Classification
-<p align="center"> <img src="./classification.png" width="80%"> </p>
+<p align="center"> <img src="./classification.png" width="95%"> </p>
 
 ### (2) 3D Object Detection
-<p align="center"> <img src="./detection.png" width="80%"> </p>
-<p align="center"> <img src="./detection_bev.png" width="80%"> </p>
+<p align="center"> <img src="./detection.png" width="95%"> </p>
+<p align="center"> <img src="./detection_bev.png" width="95%"> </p>
 
 
 ### (3) 3D Point Cloud Segmentation
-<p align="center"> <img src="./Segmentation.png" width="80%"> </p>
+<p align="center"> <img src="./Segmentation.png" width="95%"> </p>
