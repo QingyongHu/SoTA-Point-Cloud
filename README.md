@@ -9,10 +9,9 @@ This repository provides the **benchmark results** of existing methods.
 
 
 ### (1) 3D Shape Classification
-<a href="./classification.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>	
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+<object data="./classification.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./classification.pdf">
+        <p>This browser does not support PDFs.
     </embed>
 </object>
 
