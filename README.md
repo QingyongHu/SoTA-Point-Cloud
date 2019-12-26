@@ -9,9 +9,7 @@ This repository provides the **benchmark results** of existing methods.
 
 
 ### (1) 3D Shape Classification
-![Model View Controller]("./detection.pdf")
-![Model View Controller](./detection.pdf)
-
+<embed src="https://drive.google.com/drive/folders/1u7d6FwXRDLBjMtkK2t8lF3mLhqYFSzUr" width="500" height="375">
 
 ### (2) 3D Object Detection
 ![hustlin_erd]("./detection.pdf")
