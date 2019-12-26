@@ -4,18 +4,17 @@ Yulan Guo<sup>∗</sup>, Hanyun Wang<sup>∗</sup>,  Qingyong Hu<sup>∗</sup>, 
 
 This repository provides the **benchmark results** of existing methods. 
 
-**Updated on a regular basis**. :tada::tada::tada:
+**Updated on a regular basis~** :tada::tada::tada:
 
 
 
 ### (1) 3D Shape Classification
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://github.com/QingyongHu/SoTA-Point-Cloud/blob/master/Segmentation.pdf" width="500" height="375">
+<p align="center"> <img src="./classification.png" width="75%"> </p>
 
 ### (2) 3D Object Detection
-![hustlin_erd]("./detection.pdf")
-![hustlin_erd]("./detection_bev.pdf")
+<p align="center"> <img src="./detection.png" width="75%"> </p>
+<p align="center"> <img src="./detection_bev.png" width="75%"> </p>
 
 
 ### (3) 3D Point Cloud Segmentation
-![hustlin_erd]("./Segmentation.pdf")
+<p align="center"> <img src="./segmentation.png" width="75%"> </p>
