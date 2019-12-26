@@ -9,7 +9,7 @@ This repository provides the **benchmark results** of existing methods.
 
 
 ### (1) 3D Shape Classification
-<embed src="https://drive.google.com/drive/folders/1u7d6FwXRDLBjMtkK2t8lF3mLhqYFSzUr" width="500" height="375">
+<iframe src="https://docs.google.com/viewer?url=https://github.com/QingyongHu/SoTA-Point-Cloud/blob/master/Segmentation.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 ### (2) 3D Object Detection
 ![hustlin_erd]("./detection.pdf")
