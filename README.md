@@ -9,7 +9,7 @@ This repository provides the **benchmark results** of existing methods.
 
 
 ### (1) 3D Shape Classification
-![hustlin_erd]("./classification.pdf")
+<a href="./classification.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>	
 
 
 ### (2) 3D Object Detection
