@@ -9,11 +9,9 @@ This repository provides the **benchmark results** of existing methods.
 
 
 ### (1) 3D Shape Classification
-<object data="https://github.com/QingyongHu/SoTA-Point-Cloud/blob/master/classification.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/QingyongHu/SoTA-Point-Cloud/blob/master/classification.pdf">
-        <p>This browser does not support PDFs.
-    </embed>
-</object>
+![Model View Controller]("./detection.pdf")
+![Model View Controller](./detection.pdf)
+
 
 ### (2) 3D Object Detection
 ![hustlin_erd]("./detection.pdf")
