@@ -9,13 +9,13 @@ This repository provides the **benchmark results** of existing methods.
 
 
 ### (1) 3D Shape Classification
-![hustlin_erd](classification.pdf)
+![hustlin_erd]("./classification.pdf")
 
 
 ### (2) 3D Object Detection
-![hustlin_erd](detection.pdf)
-![hustlin_erd](detection_bev.pdf)
+![hustlin_erd]("./detection.pdf")
+![hustlin_erd]("./detection_bev.pdf")
 
 
 ### (3) 3D Point Cloud Segmentation
-![hustlin_erd](Segmentation.pdf)
+![hustlin_erd]("./Segmentation.pdf")
