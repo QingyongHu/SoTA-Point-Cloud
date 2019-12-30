@@ -1,6 +1,6 @@
 ## Deep Learning for 3D Point Clouds: A Survey
 
-Yulan Guo<sup>∗</sup>, Hanyun Wang<sup>∗</sup>,  Qingyong Hu<sup>∗</sup>,  Hao Liu<sup>∗</sup>,  Li Liu,  and Mohammed Bennamoun. [arXiv:1906.01140](https://arxiv.org/abs/1906.01140), 2019. 
+Yulan Guo<sup>∗</sup>, Hanyun Wang<sup>∗</sup>,  Qingyong Hu<sup>∗</sup>,  Hao Liu<sup>∗</sup>,  Li Liu,  and Mohammed Bennamoun. [arXiv:1912.12033](https://arxiv.org/abs/1912.12033), 2019. 
 
 This repository provides the **benchmark results** of existing methods. 
 
