@@ -19,7 +19,7 @@ This repository provides the **benchmark results** of existing methods.
 
 ## (2) 3D Object Detection
 #### Public Benchmarks
-- KITTI (CVPR'12) [[paper]](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf) [[project page]](http://www.semantic3d.net/)
+- KITTI (CVPR'12) [[paper]](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf) [[project page]](http://www.cvlibs.net/datasets/kitti/eval_3dobject.php)
     - _3D objecct detection_ [[data]](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) [[results]](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
     - _BEV_ [[data]](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev) [[results]](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=bev)
 - ApolloScape (TPAMI'19) [[paper]](http://ad-apolloscape.bj.bcebos.com/public%2FApolloScape%20Dataset.pdf) [[data]](http://apolloscape.auto/tracking.html#to_data_href) [[results]](http://apolloscape.auto/leader_board.html)
@@ -47,11 +47,9 @@ This repository provides the **benchmark results** of existing methods.
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-```
-	@article{guo2019deep,
-	  title={Deep Learning for 3D Point Clouds: A Survey},
-	  author={Guo, Yulan and Wang, Hanyun and Hu, Qingyong and Liu, Hao and Liu, Li and Bennamoun, Mohammed},
-	  journal={arXiv preprint arXiv:1912.12033},
-	  year={2019}
-	}
-```
+    @article{guo2019deep,
+      title={Deep Learning for 3D Point Clouds: A Survey},
+      author={Guo, Yulan and Wang, Hanyun and Hu, Qingyong and Liu, Hao and Liu, Li and Bennamoun, Mohammed},
+      journal={arXiv preprint arXiv:1912.12033},
+      year={2019}
+    }
