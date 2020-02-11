@@ -13,10 +13,10 @@ This repository provides the **benchmark results** of existing methods.
 - ModelNet (CVPR'15) [[paper]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/paper.pdf) [[project page]](http://modelnet.cs.princeton.edu/)
     - ModelNet10 [[data]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/ModelNet10.zip) 
     - ModelNet40 [[data]](http://modelnet.cs.princeton.edu/ModelNet40.zip) 
-- ScanObjectNN (ICCV'19) [[paper]](https://arxiv.org/pdf/1908.04616.pdf) [[data]](https://github.com/hkust-vgd/scanobjectnn) [[project page]](https://hkust-vgd.github.io/scanobjectnn/)
 - PartNet (CVPR'19) [[paper]](https://arxiv.org/abs/1812.02713) [[data]](https://github.com/daerduoCarey/partnet_dataset) [[project page]](https://cs.stanford.edu/~kaichun/partnet/)
+- ScanObjectNN (ICCV'19) [[paper]](https://arxiv.org/pdf/1908.04616.pdf) [[data]](https://github.com/hkust-vgd/scanobjectnn) [[project page]](https://hkust-vgd.github.io/scanobjectnn/)
 
-### Results
+### Benchmark Results
 <p align="center"> <img src="./classification.png" width="95%"> </p>
 
 ## (2) 3D Object Detection
@@ -29,7 +29,7 @@ This repository provides the **benchmark results** of existing methods.
 - A*3D (arXiv'19) [[paper]](https://arxiv.org/pdf/1909.07541) [[data]](https://github.com/I2RDL2/ASTAR-3D#Download) [[project page]](https://github.com/I2RDL2/ASTAR-3D)
 - Waymo (arXiv'19) [[paper]](https://arxiv.org/pdf/1912.04838) [[data]](https://waymo.com/open/licensing/) [[project page]](https://waymo.com/open/)
 
-### Results
+### Benchmark Results
 <p align="center"> <img src="./detection.png" width="95%"> </p>
 <p align="center"> <img src="./detection_bev.png" width="95%"> </p>
 
@@ -44,7 +44,7 @@ This repository provides the **benchmark results** of existing methods.
 - NPM3D (IJRR'18) [[paper]](https://arxiv.org/pdf/1712.00032) [[data]](https://cloud.mines-paristech.fr/index.php/s/JhIxgyt0ALgRZ1O) [[project page]](http://npm3d.fr/) [[results]](http://npm3d.fr/paris-lille-3d) 
 - SemanticKITTI (ICCV'19) [[paper]](https://arxiv.org/pdf/1904.01416) [[data]](http://semantic-kitti.org/dataset.html#download) [[project page]](http://semantic-kitti.org/index.html) [[results]](https://competitions.codalab.org/competitions/20331#results)
 
-### Results
+### Benchmark Results
 <p align="center"> <img src="./Segmentation.png" width="95%"> </p>
 
 
