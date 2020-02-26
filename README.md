@@ -6,12 +6,18 @@
 [Li Liu](http://www.ee.oulu.fi/~lili/LiLiuHomepage.html), 
 and [Mohammed Bennamoun](http://staffhome.ecm.uwa.edu.au/~00051632/). 
 
-[[Paper]](https://arxiv.org/abs/1912.12033) [[Project page]](https://github.com/QingyongHu/SoTA-Point-Cloud) 
 
-This repository provides the **benchmark results** of existing methods. Please feel free to <a href="mailto:qingyong.hu@cs.ox.ac.uk">contact me</a> 
+
+## Introduction
+We present a comprehensive review of recent progress in deep learning methods for point clouds. Please see our [arXiv tech report](https://arxiv.org/abs/1912.12033).
+
+This repository provides the **comparative results** of existing methods on several publicly benchmarks. 
+It covers three major tasks, including 3D shape classification, 3D object detection, and 3D point cloud segmentation. 
+Please feel free to <a href="mailto:qingyong.hu@cs.ox.ac.uk">contact me</a> 
 or [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) on this page if you have new results to add or any suggestions! 
 
-**Updated on a regular basis~** :tada::tada::tada:
+**Note:** 
+- We will update this page on a regular basis! So stay tuned~ :tada::tada::tada:
 
 
 ## (1) 3D Shape Classification
