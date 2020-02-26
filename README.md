@@ -10,7 +10,7 @@ and [Mohammed Bennamoun](http://staffhome.ecm.uwa.edu.au/~00051632/).
 
 
 ## Introduction
-We present a comprehensive review of recent deep learning methods for point clouds. Please see our [arXiv tech report](https://arxiv.org/abs/1912.12033) for detail.
+We present a comprehensive review of recent deep learning methods for point clouds. Please see our [arXiv tech report](https://arxiv.org/abs/1912.12033).
 
 This repository provides the comparative results of existing methods on several public benchmarks. 
 It covers three major tasks, including 3D shape classification, 3D object detection, and 3D point cloud segmentation. 
