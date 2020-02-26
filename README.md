@@ -1,18 +1,25 @@
 # Deep Learning for 3D Point Clouds: A Survey
 
-[Yulan Guo<sup>∗</sup>](http://yulanguo.me/), [Hanyun Wang<sup>∗</sup>](https://scholar.google.com.hk/citations?user=QG3LdUcAAAAJ&hl=zh-CN), [Qingyong Hu<sup>∗</sup>](https://www.cs.ox.ac.uk/people/qingyong.hu/), Hao Liu<sup>∗</sup>,  [Li Liu](http://www.ee.oulu.fi/~lili/LiLiuHomepage.html), and [Mohammed Bennamoun](http://staffhome.ecm.uwa.edu.au/~00051632/). [arXiv:1912.12033](https://arxiv.org/abs/1912.12033), 2019. 
+[Yulan Guo<sup>∗</sup>](http://yulanguo.me/), 
+[Hanyun Wang<sup>∗</sup>](https://scholar.google.com.hk/citations?user=QG3LdUcAAAAJ&hl=zh-CN), 
+[Qingyong Hu<sup>∗</sup>](https://qingyonghu.github.io/), 
+Hao Liu<sup>∗</sup>,  
+[Li Liu](http://www.ee.oulu.fi/~lili/LiLiuHomepage.html), 
+and [Mohammed Bennamoun](http://staffhome.ecm.uwa.edu.au/~00051632/). 
 
-This repository provides the **benchmark results** of existing methods. 
+[[Paper]](https://arxiv.org/abs/1912.12033) [[Project page]](https://github.com/QingyongHu/SoTA-Point-Cloud) 
+
+This repository provides the **benchmark results** of existing methods. Please feel free to <a href="mailto:qingyong.hu@cs.ox.ac.uk">contact me</a> 
+or [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) on this page if you have new results to add or any suggestions! 
 
 **Updated on a regular basis~** :tada::tada::tada:
-
 
 
 ## (1) 3D Shape Classification
 ### Public Datasets
 - ModelNet (CVPR'15) [[paper]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/paper.pdf) [[project page]](http://modelnet.cs.princeton.edu/)
-    - ModelNet10 [[data]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/ModelNet10.zip) 
-    - ModelNet40 [[data]](http://modelnet.cs.princeton.edu/ModelNet40.zip) 
+    - ModelNet10 [[data]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/ModelNet10.zip) [[results]](http://modelnet.cs.princeton.edu/) 
+    - ModelNet40 [[data]](http://modelnet.cs.princeton.edu/ModelNet40.zip) [[results]](http://modelnet.cs.princeton.edu/) 
 - PartNet (CVPR'19) [[paper]](https://arxiv.org/abs/1812.02713) [[data]](https://github.com/daerduoCarey/partnet_dataset) [[project page]](https://cs.stanford.edu/~kaichun/partnet/)
 - ScanObjectNN (ICCV'19) [[paper]](https://arxiv.org/pdf/1908.04616.pdf) [[data]](https://github.com/hkust-vgd/scanobjectnn) [[project page]](https://hkust-vgd.github.io/scanobjectnn/)
 
@@ -57,3 +64,8 @@ If you find our work useful in your research, please consider citing:
       journal={arXiv preprint arXiv:1912.12033},
       year={2019}
     }
+
+
+## Updates
+* 26/02/2020: Adding the dataset information
+* 27/12/2019: Initial release.
