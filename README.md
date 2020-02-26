@@ -6,21 +6,21 @@
 [Li Liu](http://www.ee.oulu.fi/~lili/LiLiuHomepage.html), 
 and [Mohammed Bennamoun](http://staffhome.ecm.uwa.edu.au/~00051632/). 
 
+<p align="center"> <img src="./taxonomy.png" width="95%"> </p>
 
 
 ## Introduction
-We present a comprehensive review of recent progress in deep learning methods for point clouds. Please see our [arXiv tech report](https://arxiv.org/abs/1912.12033).
+We present a comprehensive review of recent deep learning methods for point clouds. Please see our [arXiv tech report](https://arxiv.org/abs/1912.12033) for detail.
 
-This repository provides the **comparative results** of existing methods on several publicly benchmarks. 
+This repository provides the comparative results of existing methods on several public benchmarks. 
 It covers three major tasks, including 3D shape classification, 3D object detection, and 3D point cloud segmentation. 
 Please feel free to <a href="mailto:qingyong.hu@cs.ox.ac.uk">contact me</a> 
 or [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) on this page if you have new results to add or any suggestions! 
 
-**Note:** 
 - We will update this page on a regular basis! So stay tuned~ :tada::tada::tada:
 
 
-## (1) 3D Shape Classification
+### (1) 3D Shape Classification
 ### Public Datasets
 - ModelNet (CVPR'15) [[paper]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/paper.pdf) [[project page]](http://modelnet.cs.princeton.edu/)
     - ModelNet10 [[data]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/ModelNet10.zip) [[results]](http://modelnet.cs.princeton.edu/) 
