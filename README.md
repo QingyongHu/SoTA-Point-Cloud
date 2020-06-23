@@ -1,25 +1,33 @@
 # Deep Learning for 3D Point Clouds: A Survey
 
+This is the official repository of **Deep Learning for 3D Point Clouds: A Survey** (IEEE TPAMI), a comprehensive survey 
+of recent progress in deep learning methods for point clouds. For details, please refer to:
+ 
+**Deep Learning for 3D Point Clouds: A Survey** <br />
+
 [Yulan Guo<sup>∗</sup>](http://yulanguo.me/), 
 [Hanyun Wang<sup>∗</sup>](https://scholar.google.com.hk/citations?user=QG3LdUcAAAAJ&hl=zh-CN), 
 [Qingyong Hu<sup>∗</sup>](https://qingyonghu.github.io/), Hao Liu<sup>∗</sup>,
 [Li Liu](http://www.ee.oulu.fi/~lili/LiLiuHomepage.html), 
-and [Mohammed Bennamoun](http://staffhome.ecm.uwa.edu.au/~00051632/). 
+and [Mohammed Bennamoun](http://staffhome.ecm.uwa.edu.au/~00051632/). <br />
+**[[Paper](https://arxiv.org/abs/1912.12033)] [[Blog](https://mp.weixin.qq.com/s/5RJAv_cOlhee1R9uZzkmHQ)]** <br />
 
 <p align="center"> <img src="./taxonomy.png" width="95%"> </p>
 
 
 ## Introduction
-We present a comprehensive review of recent deep learning methods for point clouds. Please see our [arXiv tech report](https://arxiv.org/abs/1912.12033).
-This repository provides the results of existing methods on several public benchmarks. 
-It covers three major tasks, including 3D shape classification, 3D object detection, and 3D point cloud segmentation. 
+We present a comprehensive review of recent deep learning methods for point clouds. It covers major tasks in 3D point cloud analysis, 
+including 3D shape classification, 3D object detection, and 3D point cloud segmentation. It also presents comparative 
+results on several publicly available datasets, together with insightful observations and inspiring future research directions.
 Please feel free to <a href="mailto:qingyong.hu@cs.ox.ac.uk">contact me</a> 
 or [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) on this page if you have new results to add or any suggestions! 
 
 We will update this page on a regular basis! So stay tuned~ :tada::tada::tada:
 
+### (1) Datasets
+<p align="center"> <img src="./Dataset.png" width="95%"> </p>
 
-### (1) 3D Shape Classification
+### (2) 3D Shape Classification
 #### Public Datasets
 - ModelNet (CVPR'15) [[paper]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/paper.pdf) [[project page]](http://modelnet.cs.princeton.edu/)
     - ModelNet10 [[data]](http://3dvision.princeton.edu/projects/2014/3DShapeNets/ModelNet10.zip) [[results]](http://modelnet.cs.princeton.edu/) 
@@ -30,7 +38,7 @@ We will update this page on a regular basis! So stay tuned~ :tada::tada::tada:
 #### Benchmark Results
 <p align="center"> <img src="./classification.png" width="95%"> </p>
 
-### (2) 3D Object Detection
+### (3) 3D Object Detection
 #### Public Datasets
 - KITTI (CVPR'12) [[paper]](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf) [[project page]](http://www.cvlibs.net/datasets/kitti/eval_3dobject.php)
     - _3D objecct detection_ [[data]](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) [[results]](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
@@ -45,7 +53,7 @@ We will update this page on a regular basis! So stay tuned~ :tada::tada::tada:
 <p align="center"> <img src="./detection_bev.png" width="95%"> </p>
 
 
-### (3) 3D Point Cloud Segmentation
+### (4) 3D Point Cloud Segmentation
 #### Public Datasets
 - Semantic3D (ISPRS'17) [[paper]](https://www.ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Papers/Hackel-etal-cmrt2017.pdf) [[project page]](http://www.semantic3d.net/)
     - _semantic-8_ [[data]](http://www.semantic3d.net/view_dbase.php?chl=1#download) [[results]](http://www.semantic3d.net/view_results.php?chl=1)
@@ -65,7 +73,7 @@ If you find our work useful in your research, please consider citing:
     @article{guo2019deep,
       title={Deep Learning for 3D Point Clouds: A Survey},
       author={Guo, Yulan and Wang, Hanyun and Hu, Qingyong and Liu, Hao and Liu, Li and Bennamoun, Mohammed},
-      journal={arXiv preprint arXiv:1912.12033},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
       year={2019}
     }
 
