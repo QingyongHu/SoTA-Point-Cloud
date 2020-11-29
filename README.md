@@ -61,7 +61,13 @@ We will update this page on a regular basis! So stay tuned~ :tada::tada::tada:
 - S3DIS (CVPR'17) [[paper]](http://buildingparser.stanford.edu/images/3D_Semantic_Parsing.pdf) [[data]](https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1) [[project page]](http://buildingparser.stanford.edu/dataset.html#Download)
 - ScanNet (CVPR'17) [[paper]](https://arxiv.org/pdf/1702.04405) [[data]](https://github.com/ScanNet/ScanNet) [[project page]](http://www.scan-net.org/) [[results]](http://kaldir.vc.in.tum.de/scannet_benchmark/)  
 - NPM3D (IJRR'18) [[paper]](https://arxiv.org/pdf/1712.00032) [[data]](https://cloud.mines-paristech.fr/index.php/s/JhIxgyt0ALgRZ1O) [[project page]](http://npm3d.fr/) [[results]](http://npm3d.fr/paris-lille-3d) 
+- DublinCity (BMVC'19) [[paper]](https://arxiv.org/abs/1909.03613) [[data]](https://v-sense.scss.tcd.ie/dublincity/) [[project page]](https://v-sense.scss.tcd.ie/dublincity/) 
 - SemanticKITTI (ICCV'19) [[paper]](https://arxiv.org/pdf/1904.01416) [[data]](http://semantic-kitti.org/dataset.html#download) [[project page]](http://semantic-kitti.org/index.html) [[results]](https://competitions.codalab.org/competitions/20331#results)
+- Toronto-3D (CVPRW'20) [[paper]](https://arxiv.org/abs/2003.08284) [[data]](https://github.com/WeikaiTan/Toronto-3D) [[project page]](https://github.com/WeikaiTan/Toronto-3D) [[results]](https://github.com/WeikaiTan/Toronto-3D)
+- DALES (CVPRW'20) [[paper]](https://arxiv.org/abs/2004.11985) [[data]](https://docs.google.com/forms/d/e/1FAIpQLSe3IaTxCS7wKH01SHn_o7U86ToIw9K26vc0bkwiELn6wwh8gg/viewform) [[project page]](https://udayton.edu/engineering/research/centers/vision_lab/research/was_data_analysis_and_processing/dale.php) [[results]](https://arxiv.org/abs/2004.11985)
+- Campus3D (ACM MM'20) [[paper]](https://arxiv.org/abs/2008.04968) [[data]](https://3d.dataset.site/) [[project page]](https://github.com/shinke-li/Campus3D) [[results]](https://arxiv.org/abs/2008.04968)
+- SensatUrban (Arxiv'20) [[paper]](https://arxiv.org/abs/2009.03137) [data][[project page]](http://point-cloud-analysis.cs.ox.ac.uk/) [[results]](https://arxiv.org/abs/2009.03137)
+
 
 #### Benchmark Results
 <p align="center"> <img src="./Segmentation.png" width="95%"> </p>
