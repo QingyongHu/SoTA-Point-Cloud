@@ -1,4 +1,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-1912.12033-b31b1b.svg)](https://arxiv.org/abs/1912.12033)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/QingyongHu/SoTA-Point-Cloud/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/QingyongHu/SoTA-Point-Cloud)](https://GitHub.com/QingyongHu/SoTA-Point-Cloud/issues/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 # Deep Learning for 3D Point Clouds: A Survey (IEEE TPAMI, 2020)
 
